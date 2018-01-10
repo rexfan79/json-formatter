@@ -1,8 +1,7 @@
 {
- "name": "DFShacked-4b92db-T&S",
+ "name": "DFShacked-4b92db-17",
  "dataColors":[ 
-"#000000",
-"#070e15",
+
 "#0f1d2b",
 "#162b41",
 "#1e3a57",
@@ -21,9 +20,7 @@
 "#a5c8ed",
 "#b7d3f0",
 "#c9def4",
-"#dbe9f7",
-"#edf4fb",
-"#ffffff"
+"#dbe9f7"
 ],
 
 "background": "#FFFFFF",
