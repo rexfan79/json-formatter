@@ -7,12 +7,12 @@
 "#3685d7",
 "#4b92db",
 "#609fdf",
-"#76ace4",
-"#8bb9e8",
 
 "#5d9cde",
 "#6ea7e2",
+"#76ace4",
 "#81b2e5",
+"#8bb9e8",
 "#93bde9",
 "#a5c8ed",
 "#b7d3f0",
@@ -20,6 +20,7 @@
 "#dbe9f7",
 "#edf4fb",
 "#ffffff"
+
 ],
 
 "background": "#FFFFFF",
