@@ -1,0 +1,21 @@
+{
+ "name": "DFShacked-4b92db-S.json",
+ "dataColors":[ 
+"#4b92db",
+
+"#4383c5",
+"#3c74af",
+"#346699",
+"#2d5783",
+"#25496d",
+"#1e3a57",
+"#162b41",
+"#0f1d2b",
+"#070e15",
+"#000000"
+],
+
+"background": "#FFFFFF",
+ "foreground": "#A6A6A6",
+ "tableAccent":"#FAFAFA"
+}
