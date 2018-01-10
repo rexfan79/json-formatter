@@ -1,0 +1,32 @@
+{
+ "name": "DFShacked-4b92db-T&S",
+ "dataColors":[ 
+"#000000",
+"#070e15",
+"#0f1d2b",
+"#162b41",
+"#1e3a57",
+"#25496d",
+"#2d5783",
+"#346699",
+"#3c74af",
+"#4383c5",
+
+"#4b92db",
+
+"#5d9cde",
+"#6ea7e2",
+"#81b2e5",
+"#93bde9",
+"#a5c8ed",
+"#b7d3f0",
+"#c9def4",
+"#dbe9f7",
+"#edf4fb",
+"#ffffff"
+],
+
+"background": "#FFFFFF",
+ "foreground": "#A6A6A6",
+ "tableAccent":"#FAFAFA"
+}
